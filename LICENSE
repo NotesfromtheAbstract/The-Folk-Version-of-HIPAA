@@ -1,0 +1,15 @@
+Copyright (c) 2026 Andrew R. Crocker
+
+All rights reserved.
+
+The R source code in this repository is provided for transparency and
+reproducibility of the analyses published in "The Folk Version" on
+Notes from the Abstract (https://andrewrcrocker.substack.com).
+
+You may run, read, and adapt the code for personal or educational use.
+
+You may not republish the rendered visualizations (PNG files) or
+substantial portions of the article text without written permission
+from the author.
+
+For permissions, contact: andrewrcrocker [at] substack [dot] com
