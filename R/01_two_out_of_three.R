@@ -2,7 +2,7 @@
 # "Two Out of Three"
 # OCR HIPAA Complaint Outcomes, April 2003–Present
 #
-# Notes from the Abstract — "The Folk Version"
+# Notes from the Abstracts — "The Folk Version"
 # Andrew R. Crocker, 2026
 #
 # © 2026 Andrew R. Crocker. All rights reserved.
@@ -73,7 +73,7 @@ p <- ggplot(complaints, aes(x = count, y = category, fill = fill_color)) +
     ),
     x = NULL,
     y = NULL,
-    caption = "Source: HHS Office for Civil Rights, Enforcement Highlights. | Notes from the Abstract, 2026."
+    caption = "Source: HHS Office for Civil Rights, Enforcement Highlights. | Notes from the Abstracts, 2026."
   ) +
   theme_1950s() +
   theme(

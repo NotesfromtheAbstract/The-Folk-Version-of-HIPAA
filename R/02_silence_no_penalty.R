@@ -2,7 +2,7 @@
 # "Silence Has No Penalty Schedule"
 # HIPAA Penalty Tiers for Disclosure vs. Refusal
 #
-# Notes from the Abstract — "The Folk Version"
+# Notes from the Abstracts — "The Folk Version"
 # Andrew R. Crocker, 2026
 #
 # © 2026 Andrew R. Crocker. All rights reserved.
@@ -79,7 +79,7 @@ p <- ggplot(penalty_data, aes(x = cap, y = tier, fill = bar_color)) +
     ),
     x = NULL,
     y = NULL,
-    caption = "Source: 45 CFR 160.404; HHS inflation-adjusted amounts, January 28, 2026.\nAnnual caps reflect OCR enforcement discretion (2019). | Notes from the Abstract, 2026."
+    caption = "Source: 45 CFR 160.404; HHS inflation-adjusted amounts, January 28, 2026.\nAnnual caps reflect OCR enforcement discretion (2019). | Notes from the Abstracts, 2026."
   ) +
   theme_1950s() +
   theme(
