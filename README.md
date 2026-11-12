@@ -1,12 +1,12 @@
 # The Folk Version
 
-**Notes from the Abstract** — Andrew R. Crocker, 2026
+**Notes from the Abstracts** — Andrew R. Crocker, 2026
 
 *Most Americans have never read HIPAA. The people who cite it haven't either.*
 
 ## About
 
-This repository contains the R code and rendered visualizations accompanying "The Folk Version," published on [Notes from the Abstract](https://andrewrcrocker.substack.com).
+This repository contains the R code and rendered visualizations accompanying "The Folk Version," published on [Notes from the Abstracts](https://andrewrcrocker.substack.com).
 
 The piece examines how the Health Insurance Portability and Accountability Act's Privacy Rule permits information sharing in circumstances most providers are trained to refuse, and how the penalty structure, compliance training culture, and state-level overlays (particularly Texas HB 300) create a rational incentive for silence over judgment.
 

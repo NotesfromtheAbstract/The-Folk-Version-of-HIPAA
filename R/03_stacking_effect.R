@@ -2,7 +2,7 @@
 # "The Stacking Effect"
 # Federal HIPAA vs. Texas HB 300 Penalty Structures
 #
-# Notes from the Abstract — "The Folk Version"
+# Notes from the Abstracts — "The Folk Version"
 # Andrew R. Crocker, 2026
 #
 # © 2026 Andrew R. Crocker. All rights reserved.
@@ -99,7 +99,7 @@ p <- ggplot(penalties, aes(x = tier_short, y = amount, fill = framework)) +
     y = NULL,
     caption = paste0(
       "Federal: 45 CFR 160.404, inflation-adjusted January 28, 2026. ",
-      "Texas: Health and Safety Code Ch. 181 (HB 300). | Notes from the Abstract, 2026."
+      "Texas: Health and Safety Code Ch. 181 (HB 300). | Notes from the Abstracts, 2026."
     )
   ) +
   theme_1950s() +
